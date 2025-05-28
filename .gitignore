@@ -4,6 +4,7 @@ data/
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+config/application-secrets.properties
 
 ### STS ###
 .apt_generated
